@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>The language detector</title>
+</head>
+<body style="background: black; color: white;">
+	<h1 style="text-align: center;">The language detector</h1>
+
+<BR/><BR/>
+Introduction<BR/>
+<p>During the summer 2021, me and Eli Lowry we started working on a very interesting project named the language detector. The idea is that one user could upload a file or type something in a command-line and check the language of a certain text. There was no real motivation behind this except that we just wanted to have fun and code together. Some people advised me to keep it until my senior year and use it as my senior project, but I thought it was something straightforward plus I wanted to do something more interesting for my senior project. I am a sophomore and so I could not wait two years just to implement something that I could code in less than a week if I had the available resources. Thus, me and Eli we started working on it around May 2021.</p>
+
+What is an Ngram?
+<p>
+The language detector has two layers of detection. The first layer was overseeing by my friend Eli. I would like to focus on the second layer, since it is the one that I coded. I am not sure if I am knowledgeable enough to go into the details of what Eli was doing in his layer but overall, our two layers were meant to be complementary. His layer would do the job until it is confronted to an edge case where it will pass the task to my layer. 
+I named my layer Achilles. It originally used bigrams to guess the language of a word. Briefly, bigrams are a specific case of Ngram, that are sequences of adjacent characters from a string. For example, an Ngram with n=2 will only look at the sequences of 2 characters in a string, and this is what we did. The idea of using bigrams for the second layer was not mine. I heard about bigrams during our first meeting with Dr. Hutchins about the language detector. At first, the idea did not make sense, but as I was discussing with Eli and doing some research on the internet, it clicked, and I realized how powerful this method could be if used properly.</p> 
+The implementation
+<p>It all starts with the training part. The software must “read” a bunch of books to know what French or English or Spanish looks like. By “read” I mean my sofware will have to look at all the possible bigrams in the book and generate their frequencies. By doing that, the software will realize that a bigram like “JE” will be more frequent in French than in English for example. Using this, for any word that you could give the software, it will check its frequency in different language and guess the language of the input based on that. It is simple and it works! The output of the software is the language with the highest frequency.</p>
+
+Conclusion
+<p>The software is not perfect and for example we noticed that for some inputs, the software has difficulties differentiating Spanish from French and English from German. But ultimately, this project was a lot of fun, and it all that matters. We thought about adding more languages but then ended up stopping with four. Feel free to look up the code on GitHub and of course don’t hesitate to star the project and to fork it if you want to add remove, implement something new with it!</p>
+<div style="text-align:center;">by Jonathan J Allarassem</div>
+<BR>
+<BR><a style="text-align: center;color: red;text-decoration: none;"href="https://github.com/allarassemjonathan/Achilles/blob/main/eshu.py">
+Achilles code here</a>
+	
+
+<BR>
+</body>
+</html>
