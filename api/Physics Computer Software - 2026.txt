@@ -1,0 +1,449 @@
+Grove City College Status Sheet
+Status Sheets are provided as a convenience for the student and may be helpful for
+recording completed courses. However, the College Bulletin is the controlling authority
+on all requirements. Questions should be directed to your academic advisor or the Registrar.
+
+B.S. in Physics/Computer with Software
+Option
+Entering in 2022
+
+(WI)=Writing Intensive, (SI)=Speaking Intensive, (IL)=Information Literacy courses.
+
+(REVISED 01-01-2022)
+
+Name:
+ID#
+Year of Anticipated Graduation:
+
+Date:
+Advisor:
+
+TOTAL HOURS REQUIRED FOR THIS DEGREE------------------------------------------------------------128 HOURS
+
+Minimum CQPA and MQPA required for graduation---------------------------------------------------2.00
+MQPA Courses------------------------------------------------------ASTR; COMP; PHYS; ELEE; MATH 222
+
+General Education + Elective Requirements-------------------------------------------------------38-40 HOURS
+
+Major Requirements----------------------------------------------------------------------------------88-90 HOURS
+
+GENERAL EDUCATION REQUIREMENTS----------------------------------------------------------------------24 HOURS
+PHYSICS CORE REQUIREMENTS---------------------------------------------------------------------------------------------40 HOURS
+Cr.
+
+Sem. Taken
+
+Grade
+
+Cr.
+
+HUMANITIES CORE-------------------------------------------------------------------------------------------15 HOURS
+
+PHYS 101
+
+General Physics I - Engineering
+
+4
+
+HUMA 102
+
+Civ and the Biblical Revelation (IL)*
+
+3
+
+PHYS 102
+
+General Physics II - Engineering
+
+4
+
+HUMA 200
+
+Western Civilization
+
+3
+
+PHYS 135
+
+Horizons in Physics
+
+1
+
+HUMA 202
+
+Civilization and Literature
+
+3
+
+PHYS 234
+
+Modern Physics
+
+3
+
+HUMA 301
+
+Civilization and the Arts
+
+3
+
+PHYS 242
+
+Introduction to Theoretical Physics
+
+3
+
+HUMA 303
+
+Christianity and Civilization
+
+3
+
+PHYS 288
+
+Intermediate Laboratory (WI)
+
+2
+
+PHYS 303
+
+Mechanics I
+
+3
+
+PHYS 321
+
+Radiation Laboratory (SI) (IL)
+
+2
+
+WRITING REQUIREMENT--------------------------------------------------------------------------------------3 HOURS
+
+PHYS 442
+
+Computational Methods in Physics
+
+3
+
+WRIT 101
+
+ASTR 207
+
+Introduction to Stars, Galaxies, & Cosmology 3
+
+*The year-long sequence of RELI 211 and 212 may substitute for this course.
+
+Found. of Academic Discourse (IL)
+
+3
+
+COMP 141
+
+Computer Programming I
+
+3
+
+STUDIES IN SCIENCE, FAITH, & TECHNOLOGY (SSFT)-------------------------------------------2 HOURS
+
+COMP 244
+
+Database Management Systems
+
+3
+
+Choose one course from the following:
+
+COMP 342
+
+Data Communication and Networking
+
+3
+
+COMP 205/SSFT 205 Ethics, Faith, and the Conscious Mind
+
+COMP 424
+
+Parallel and Distributed Computing
+
+3
+
+PHIL 243
+
+Science and the Human: Inquiry, Design, & the Person
+
+SSFT 210
+
+Science & Religion
+
+SSFT 212
+
+Science, Faith, Technology, & Origins
+
+Sem. Taken
+
+Grade
+
+TECHNICAL ELECTIVES-----------------------------------------------------------------------------------------------3 HOURS
+Choose ONE of the following:
+2
+
+PHYS 304 Mechanics II, PHYS 305 Electricity and Magnetism; PHYS 340 Thermodynamics
+and Statistical Mechanics, PHYS 421 Advanced Topics, or PHYS 431 Quantum Mechanics, or
+
+FOUNDATIONS OF THE SOCIAL SCIENCES----------------------------------------------------------------------3 HOURS
+ASTR 310 Astrophysics.
+Choose one course from the following:
+
+3
+
+ECON 120
+
+Foundations of Economics
+
+PSYC 101 Found. of Psychology
+
+HIST 120
+
+Foundations of History
+
+PSYC 200 Cross-Cultural Psychology
+
+COMPUTER SOFTWARE REQUIREMENTS---------------------------------------------------------------------------------25-27 HOURS
+
+HIST 141
+
+World Geography
+
+SOCI 101 Foundations of Sociology
+
+COMP 220
+
+Computer Programming II
+
+3
+
+HIST 204
+
+Hist/Phil Foundations of Education
+
+SOCI 103 Found. of Cultural Anthr.
+
+COMP 222
+
+Introduction to Data Structures/Algorithms
+
+3
+
+POLS 101
+
+Foundations of Political Science
+
+SOCW 101 Found. of Social Work
+
+COMP 325
+
+Computer Architecture and Organization
+
+3
+
+3
+
+COMP 340
+
+Operating Systems
+
+3
+
+COMP 350
+
+Software Engineering
+
+3
+
+PHYS 210
+
+Electronics
+
+4
+
+QUANTITATIVE/LOGICAL REASONING----------------------------------------------------------------0 HOURS
+College requirements met through major-related coursework.
+
+Choose TWO of the following (6-8 hours):
+NATURAL SCIENCES (with labs)-----------------------------------------------------------------------------0 HOURS
+
+ELEE 204; COMP 480 or PHYS 270/370/470 (Limit 3 hrs); COMP 314 or any 400-level COMP
+
+College requirements met through major-related coursework.
+
+course; MATH 213*, 222*.
+
+PHYSICAL EDUCATION----------------------------------------------------------------------------------1 HOURS
+PHYE 100
+
+Healthful Living
+
+1
+
+*If you complete MATH 213 and 222, you will receive a minor in Mathematics.
+
+TECHNICAL CORE REQUIREMENTS (Science, Math, etc.)-----------------------------------------------------------20 HOURS
+GENERAL ELECTIVES----------------------------------------------------------------------------------------14-16 HOURS
+
+CHEM 105
+
+Chemistry for Engineers
+
+4
+
+MATH 161
+
+Calculus I
+
+4
+
+MATH 162
+
+Calculus II
+
+4
+
+MATH 261
+
+Calculus III
+
+4
+
+MATH 262
+
+Differential Equations
+
+3
+
+MATH 263
+
+Numerical Differential Equations
+
+1
+
+SAMPLE FOUR-YEAR PLAN for the
+BACHELOR OF SCIENCE IN
+PHYSICS/COMPUTER with SOFTWARE OPTION
+
+Freshman Year
+Fall
+Credits
+Spring
+Credits
+PHYS 101 General Physics I……………………………………………….
+4
+PHYS 102 General Physics II………………………………………………………
+4
+PHYS 135 Horizons in Physics………………………………….
+1
+COMP 220 Computer Programming II……………………………..
+3
+COMP 141 Computer Programming I……………………………
+3
+MATH 162 Calculus II…………………………………………………….
+4
+MATH 161 Calculus I……………………………………………
+4
+HUMA 102 Civ and the Biblical Revelation…………………………………………
+3
+WRIT 101 Foundations of Academic Discourse……………………
+3
+PHYE 100 Healthful Living……………………………………………………………
+1
+15
+15
+
+Sophomore Year
+Fall
+Credits
+Spring
+Credits
+CHEM 105 Chemistry for Engineers……………………………………
+4
+PHYS 234 Modern Physics…………………………………………….
+3
+MATH 213 Discrete Mathematics for Comp. Science***………….
+3-4
+PHYS 242 Introduction to Theoretical Physics………………………..
+3
+MATH 261 Calculus III………………………………………….
+4
+PHYS 288 Intermediate Laboratory……………………………………..
+2
+HUMA 200 Western Civilization……………………………………………………………………………….
+3
+ASTR 207 Introduction to Stars, Galaxies, & Cosmology………………………
+3
+Electives*……………………………………………………………..
+2-3
+SSFT Course……...………………………………………………………..
+2
+17
+Electives*………………………………………………………………..
+3
+16
+Junior Year
+
+Fall
+Spring
+Credits
+Credits
+PHYS 210 Electronics……………………………………………..
+4
+PHYS 321 Radiation Laboratory………………………………………..
+2
+PHYS 303 Mechanics I…………………………………………….
+3
+PHYS 442 Computational Methods in Physics**………………………
+3
+COMP 222 Data Structures and Algorithms………………………………
+3
+COMP 342 Data Communication and Networking…………………
+3
+Technical Elective………………………………………………….
+3
+COMP 424 Parallel and Distributed Computing…......................
+3
+HUMA 301 Civilization and the Arts………………………………………………………………………….
+3
+HUMA 202 Civilization and Literature………………………………………………
+3
+16
+Electives*……………………………………………………………..3
+17
+Senior Year
+Fall
+Spring
+Credits
+Credits
+COMP 244 Database Management Systems……………………
+3
+COMP 340 Operating Systems……………………………………….
+3
+COMP 305 Computer Architecture and Organization…...........
+3
+COMP 350 Software Engineering……………………………………..
+3
+Foundations of Social Science Course……………………………………………….
+3
+MATH 262 Differential Equations………………………………………
+3
+HUMA 303 Christianity and Civilization……………………………………………….
+3
+MATH 263 Numerical Differential Equations………………………….
+1
+Electives*……………………………………………………………..
+4
+Electives*……………………………………………………………..6
+16
+16
+* 3-4 credits will be fulfilled by a Computer Software Requirement choice.
+** The sequencing of MATH 262/263 and PHYS 442 may alternate because PHYS 442 is taught every other year.
+*** Recommended Computer Software Requirement selection.
+
+
