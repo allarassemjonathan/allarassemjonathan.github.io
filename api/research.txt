@@ -1,21 +1,34 @@
+Data Science and AI Research
 Building a Pipeline for Real-Time Topical Polling: Grove City College
 Kenneth Browder, Jonathan Allarassem
 XRDS: Crossroads, The ACM Magazine for Students, Volume 30, Issue 3
 Pages 34 - 35
 link:https://doi.org/10.1145/3652619
 
+
+Mathematics Research
+Some results in curvilinear triangle geometry
+Kush Agrawal, Jonathan Allarassem, Hannah Proctor
+Mathematical Association of America, 2023 MathFest Conference
+Prize: Outstanding Poster
+
+
+AI Research
 Automated weighting of environment features in combat-based games
 Jonathan Allarassem, Dr. Brian Dellinger
 2023 Penn State Engineering Conference, Artificial Intelligence
 link:https://sites.psu.edu/behrendsigmaxi2023/2023/04/11/automated-weighting-of-environment-features-in-combat-based-games/
 
+
+AI Research
 3D camera equipped robotic arm for small object manipulation
 Jonathan Allarassem, Kenneth Browder
 2023 Penn State Engineering Conference, Artificial Intelligence
 link:https://sites.psu.edu/behrendsigmaxi2023/2023/04/11/3d-camera-equipped-robotic-arm-for-small-object-manipulation/
 
+
+Data Analytics
 Gave a lecture on Probabilistic models in AI modeling of text (NLP)
 Data Science Class, Master in Buisness Analytics
 Jonathan Allarassem
 link:https://drive.google.com/file/d/1SLT0wI5MzWMo67ZrKHLVdpAeBbEMUzIn/view
-
