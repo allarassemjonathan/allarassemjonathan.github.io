@@ -6,6 +6,12 @@ Pages 34 - 35
 link:https://doi.org/10.1145/3652619
 
 
+Probabilistic Modeling
+Gave a lecture on Probabilistic models in AI modeling of text (NLP)
+Data Science Class, Master in Buisness Analytics
+Jonathan Allarassem
+link:https://drive.google.com/file/d/1SLT0wI5MzWMo67ZrKHLVdpAeBbEMUzIn/view
+
 Mathematics Research
 Some results in curvilinear triangle geometry
 Kush Agrawal, Jonathan Allarassem, Hannah Proctor
@@ -25,10 +31,3 @@ AI Research
 Jonathan Allarassem, Kenneth Browder
 2023 Penn State Engineering Conference, Artificial Intelligence
 link:https://sites.psu.edu/behrendsigmaxi2023/2023/04/11/3d-camera-equipped-robotic-arm-for-small-object-manipulation/
-
-
-Data Analytics
-Gave a lecture on Probabilistic models in AI modeling of text (NLP)
-Data Science Class, Master in Buisness Analytics
-Jonathan Allarassem
-link:https://drive.google.com/file/d/1SLT0wI5MzWMo67ZrKHLVdpAeBbEMUzIn/view
