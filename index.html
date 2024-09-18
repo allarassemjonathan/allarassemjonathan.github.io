@@ -1,122 +1,150 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 <html>
-<body >
+  <head>
+    <style>
+      body {
+        background-color: black;
+        color: white;
+        font-family: 'Arial', sans-serif;
+        text-align: center; /* Centers all text elements */
+      }
 
-<table>
-<tr>
-<td><img src="jonathanprofile.jpg" width="250" height="250"></img></td>
-</tr>
-</table>
-<br>
-<h4>
-	About me
-</h4>
-Hey there, my name is Jonathan Allarassem, I am from West Africa, <br>I am passionate about AI and this is my website!<br> Have fun reading about the projects :)
-<h4>
-	Experience
-</h4>
-<h5>Fall 2022
-<div style="text-decoration: none;"> Fatigue Detection Algorithm -- Research Assistant @ Highmark and GCC </div>
-</h5>
-<h5>Spring 2023
-<div style="text-decoration: none;"> Semi-Supervised Modeling of Topics Over Time in Twitter Data-- Research Assistant @ GCC </div>
-</h5>
-<h5>Summer 2023
-<div style="text-decoration: none;"> Drone Image Features Detection -- Research Assistant @ GCC </div>
-</h5>
-<h5>Summer 2023 
-<div style="text-decoration: none;"> Drone Navigation -- Cofounder and Chief Research Officer @ Asamaan </div>
-</h5>
-<h5>Fall 2023 
-<div style="text-decoration: none;"> Statistical Machine Translation -- Research Assistant @ SIL and GCC </div>
-</h5>
-<h4>
-	Degree
-</h4>
-	<div style="text-decoration: none;"href="">Bachelor of Science (Grove City College)</div>
+      h4 {
+        font-size: 24px;
+        font-weight: bold;
+        color: #f0f0f0;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: 10px;
+      }
 
-	<a style="text-decoration: none;"href="">Major in Computer Science</a>
-	<br>
-	<a style="text-decoration: none;"href="">Minor in mathematics</a>
-<h4>
-	Oral Presentations, Posters and Papers
-</h4>
-	<a style="text-decoration: none;" href="./papers/chatbot_paper.pdf"> Technical report QA chatbot</a><br>
-	<a style="text-decoration: none;" href="./papers/sniper_paper.pdf"> Self-Play for Self-optimizing evaluation function for first person shooter combats in 3-dimensional environments <br> (co-authored with Dr. Brian Dellinger)</a><br>
-	<a style="text-decoration: none;" href="https://sites.psu.edu/behrendsigmaxi2023/2023/04/11/automated-weighting-of-environment-features-in-combat-based-games/"> Automated weighting of environment features in combat based games<br> (co-authored with Dr. Brian Dellinger)</a><br>
-	<a style="text-decoration: none;" href="https://sites.psu.edu/behrendsigmaxi2023/2023/04/13/semi-supervised-modeling-and-detection-of-changes-in-topic-sentiment-in-near-real-time-using-social-media-data/"> Semi-Supervised Modeling and Detection of Changes in Topic Sentiment in Near Real Time Using Social Media Data
-	<br> (co-authored with my dear friend Kenneth Browder)</a><br>
-	<a style="text-decoration: none;" href="https://sites.psu.edu/behrendsigmaxi2023/2023/04/11/3d-camera-equipped-robotic-arm-for-small-object-manipulation/"> 3D camera equipped robotic arm for small object manipulation<br> (co-authored with my dear friend Kenneth Browder)</a><br>
-	<a style="text-decoration: none;" href="https://drive.google.com/file/d/1SLT0wI5MzWMo67ZrKHLVdpAeBbEMUzIn/view?usp=sharing"> Lecture graduate buisness students on Naive-Bayes approach in Machine learning<br>(TA for Machine Learning class)</a><br>
+      h5 {
+        font-size: 20px;
+        font-weight: bold;
+        color: #e0e0e0;
+      }
 
-<h4>
-	Natural Language Processing 
-</h4>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/neural-articles">History articles generation using next character prediction with RNNs trained on History papers</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/shakespeare">Poetry generation using 3rd order Markov model trained on Shakespeare books</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/QA/blob/main/README.md">Question-Answer chatbot using Naive Bayes and word embeddings</a>
-<br>
-	<a style="text-decoration: none;" href="https://sites.psu.edu/behrendsigmaxi2023/2023/04/13/semi-supervised-modeling-and-detection-of-changes-in-topic-sentiment-in-near-real-time-using-social-media-data/"> Semi-Supervised Modeling and Detection of Changes in Topic Sentiment <br> /in Near Real Time Using Social Media Data
-	<br>(Collaboration with Kenneth Browder, Dr. Brian Dellinger)</a>
-<br>
-	<a style="text-decoration: none;" href="https://github.com/allarassemjonathan/Latent-Semantics-Analysis-for-word-to-vector-generation"> Word embedding generation using Latent Semantic Analysis and dimensionality reduction</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/Bayes_Naive_classifier">Newspapers article classification using Naives-Bayes appraoch</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/Achilles/blob/main/README.md">Language recognition using Maximum Likelihood Approximation over ngrams of different languages</a>
-<br>
-	<a  style="text-decoration: none;" href="https://sites.psu.edu/behrendsigmaxi2023/2023/04/13/semi-supervised-modeling-and-detection-of-changes-in-topic-sentiment-in-near-real-time-using-social-media-data/">Twitter Topic modeling using k-mean on embedding of tweets and TFIDF metric</a>
-<br>
-<h4>
-	Optimization 
-</h4>
-	<a style="text-decoration: none;" href="https://github.com/allarassemjonathan/Sniper_AI">Self-Play for Self-optimizing evaluation function for first person shooter combats in 3-dimensional environments</a>
+      div {
+        font-size: 16px;
+        font-weight: normal;
+        color: #cccccc;
+        line-height: 1.6;
+        max-width: 400px; /* Reduces the width of descriptions */
+        margin: 0 auto; /* Centers the div element */
+        text-align: left; /* Aligns text to the left within the centered div */
+      }
+	  .experience {
+		font-family: 'Roboto', sans-serif; /* Apply the new font to the experience section */
+		font-weight: normal; /* Adjust font weight if needed */
+  	  }
+      a {
+        color: #9f9f9f;
+        text-decoration: none;
+        font-style: italic;
+        transition: color 0.3s;
+      }
 
-<br>
-	<a  style="text-decoration: none;" href="">Solving the 8 queens puzzle using Simulated Annealing </a>
-<br>
-	<a  style="text-decoration: none;" href="">Solving the 8 queens puzzle using Random starts hill climbing</a>
+      a:hover {
+        color: #ff8c57;
+      }
 
-<h4>
-	Classification 
-</h4>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/Fatigue_Detection_algorithm/blob/main/Frwd_bckrd.m">Sport Video-clip classification using pretrained convolutional ResNet and FC layers</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/Fatigue_Detection_algorithm/blob/main/Frwd_bckrd.m">Detection of fatigue using forward-backward
-	algorithm on Hidden Markov Chain</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/Fatigue_Detection_algorithm/blob/main/expectation_maximization.m">Personalization of fatigue detection using expectation-maximization on mixture of Gaussian</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/Fatigue_Detection_algorithm/blob/main/sensitivity_ana.m">Sensitivity analysis of the fatigue detection algorithm</a>
-<br>
-	<a  style="text-decoration: none;" href="https://www.kaggle.com/competitions/predict-student-performance-from-game-play">Kaggle Machine Learning competition “Predict Student Performance from Game Play”.</a>
-<br>
-	<a  style="text-decoration: none;" href="https://www.kaggle.com/competitions/nlp-getting-started">Kaggle Machine Learning competition “Predict Natural Disaster”.</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/QA/blob/main/README.md"> Naive bayes for Gender classification off of firstname (embedded in the chatbot)</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/Achilles/blob/main/README.md"> Language recognition with probabilistic model</a>
-<br>
-<h4>
-	Software enginering projects
-</h4>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/shakespeare">Linear algebra library in C using parallel programming</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/shakespeare">API to webscrap wikipedia using java.</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/shakespeare">App using MySQL database for consummers to access/store/update their information</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/shakespeare">Simple website to introduce myself using simple css/html code</a>
-<br>
-	<a  style="text-decoration: none;" href="https://github.com/allarassemjonathan/shakespeare">Made a student scheduling app using React & SpringBoot with in team with 3 other students</a>
+      a.narrow-link {
+        display: block; /* Makes the link behave like a block element */
+        max-width: 400px; /* Reduces the width of the link text */
+        margin: 0 auto; /* Centers the link */
+        text-align: left; /* Aligns text to the left within the centered link */
+        word-wrap: break-word; /* Ensures long text wraps to fit within the width */
+      }
 
-<br>
-	<a href="https://github.com/allarassemjonathan/">And many more here.</a>
-<br>
-<br>
-<a  style="text-decoration: none;" href="mailto:allarassemjj20@gcc.edu">contact me</a> :)
-<br>
-<br>
-<br>
+      img {
+        margin: 0 auto;
+        display: block; /* Centers the image */
+		padding-right: 25px;
+      }
+
+      table {
+        margin: 0 auto; /* Centers the table */
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td>
+          <img src="nice_pic.jpg" width="270" height="400" alt="Profile Image"></img>
+        </td>
+      </tr>
+    </table>
+    <br>
+    <h4>About me</h4>
+	<div class="experience">
+      Hey there, my name is Jonathan Jerabe Allarassem, I am from Senegal, West Africa.<br>
+      I am passionate about AI, poetry, mathematics and this is my website!<br>
+      Have fun reading about the projects :)
+	  <h5>Summer 2021</h5>
+	  <div>Language Modeling Using High Order Markov Chains <br>Research Assistant @ GCC CS<br><a href="https://github.com/allarassemjonathan/Achilles">Source Code</a></div>
+	  <h5>Fall 2022</h5>
+	  <div>Fatigue Detection Algorithm <br>Software Development @ Highmark and GCC CS<br><a href="https://github.com/allarassemjonathan/Fatigue_Detection_algorithm">Source Code</a></div>
+	  <h5>Spring 2023</h5>
+	  <div>Semi-Supervised Modeling of Topics Over Time in Twitter Data <br>Research Assistant @ GCC CS<br><a href="https://github.com/allarassemjonathan/semi-supervised-learning-and-detection-of-change-in-topics">Source Code</a><br><a href="https://dl.acm.org/doi/10.1145/3652619">Publication</a><br></div><br>
+	  <div>Objets Manipulation Using Robotic Arm <br>Research Assistant @ GCC CS<br><a href="https://sites.psu.edu/behrendsigmaxi2023/2023/04/11/3d-camera-equipped-robotic-arm-for-small-object-manipulation/">Publication</a><br><a href="https://youtu.be/wtuUvuvKQpI?si=aev8hD6dtGe4C6wE">Video</a></div>
+	  <h5>Summer 2023</h5>
+	  <div>Drone Image Features Detection <br>Software Development @ GCC CS</div><a href="https://dl.acm.org/doi/10.1145/3652619">Source Code</a><br><br>
+	  <div>Differential Geometry and Study of Change<br>Research Assistant @ GCC Math<br> MAA Fest 2023 Outstanding Poster</div> 
+	  <h5>Fall 2023</h5>
+	  <div>Statistical Machine Translation <br>Software Development @ SIL and GCC CS<br><a href="https://github.com/allarassemjonathan/Eflomal_fork">Source Code</a><br></div>
+	  <h5>Spring/Summer 2024</h5>
+	  <div>Game Theory Research (Avalon type Social Games)<br>Research Assistant @ GCC CS<br><a href="https://github.com/SmarfMagoosh/ResistanceResearch">Source Code</a></div><br>
+	  <div>PRODUCTX Scene Understanding Software <br>(YOLOX detection + GPT4o for analysis of frame) <br>Software development @ Independent Contractor</div>
+	</div>
+	
+    <h4>Degree</h4>
+    <div>Bachelor of Science (Grove City College)<br style="text-align: center;">Magna Cum Laude</div>
+    <a href="https://www.gcc.edu/Home/Academics/Majors-Departments/Science-Engineering-Mathematics/Computer-Science/BS-in-Computer-Science">Major in Computer Science</a><br>
+    <a href="https://www.gcc.edu/Home/Academics/Majors-Departments/Science-Engineering-Mathematics/Mathematics/Minors">Minor in Mathematics</a>
+
+    <h4>Oral Presentations, Posters and Papers</h4>
+	<img src="computer_vision_cool2alt.jpg" width="350" height="350" alt="Grad school"></img><br>
+    <a class="narrow-link" href="./papers/chatbot_paper.pdf">Technical report QA chatbot (Unpublished work)</a><br>
+    <a class="narrow-link" href="./papers/sniper_paper.pdf">Self-Play for Self-optimizing evaluation function for 1st person shooter combats in 3D environments (co-authored with Dr. Brian Dellinger)</a><br>
+    <a class="narrow-link" href="https://sites.psu.edu/behrendsigmaxi2023/2023/04/11/automated-weighting-of-environment-features-in-combat-based-games/">Automated weighting of environment features in combat-based games<br>(co-authored with Dr. Brian Dellinger)</a><br>
+    <a class="narrow-link" href="https://sites.psu.edu/behrendsigmaxi2023/2023/04/13/semi-supervised-modeling-and-detection-of-changes-in-topic-sentiment-in-near-real-time-using-social-media-data/">Semi-Supervised Modeling and Detection of Changes in Topic Sentiment in Near Real Time Using Social Media Data<br>(co-authored with Kenneth Browder)</a><br>
+
+    <h4>Computer Vision And Optimization</h4>
+	<img src="computer_vision_cool1.jfif" width="250" height="250" alt="Computer Vision"></img><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/Sniper_AI">Self-Play for Self-optimizing evaluation function for first-person shooter combats in 3D environments</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/Fatigue_Detection_algorithm/blob/main/Frwd_bckrd.m">Sport video-clip classification using pretrained convolutional ResNet and FC layers</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/Fatigue_Detection_algorithm/blob/main/Frwd_bckrd.m">Detection of fatigue using forward-backward algorithm on Hidden Markov Chain</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/Fatigue_Detection_algorithm/blob/main/expectation_maximization.m">Personalization of fatigue detection using expectation-maximization on mixture of Gaussian</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/Fatigue_Detection_algorithm/blob/main/sensitivity_ana.m">Sensitivity analysis of the fatigue detection algorithm</a><br>
+    <a class="narrow-link" href="https://www.kaggle.com/competitions/predict-student-performance-from-game-play">Kaggle competition “Predict Student Performance from Game Play”</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/QA/blob/main/README.md">Naive Bayes for Gender classification based on first name (embedded in the chatbot)</a><br>
+
+	<h4>Deep Learning And Natural Language Processing</h4>
+    <img src="cool_sick_ml.jfif" width="250" height="250" alt="NLP"></img><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/neural-articles">History articles generation using RNNs</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/shakespeare">Poetry generation using 3rd order Markov models</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/QA/blob/main/README.md">Question-Answer chatbot using Naive Bayes and word embeddings</a><br>
+    <a class="narrow-link" href="https://sites.psu.edu/behrendsigmaxi2023/2023/04/13/semi-supervised-modeling-and-detection-of-changes-in-topic-sentiment-in-near-real-time-using-social-media-data/">Twitter Topic modeling using k-means on embedding of tweets and TFIDF metric (Penn State Conference)</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/Latent-Semantics-Analysis-for-word-to-vector-generation">Word embedding generation using Latent Semantic Analysis and dimensionality reduction (implemented from scratch)</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/Bayes_Naive_classifier">Newspaper article classification using Naive-Bayes</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/Achilles/blob/main/README.md">Language recognition using Maximum Likelihood Approximation over n-grams of different languages</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/Achilles/blob/main/README.md">Language recognition with probabilistic model</a><br>
+    <a class="narrow-link" href="https://www.kaggle.com/competitions/nlp-getting-started">Kaggle competition “Predict Natural Disaster”</a><br>
+
+    <h4>Software Engineering Projects</h4>
+	<img src="cool_sick_ml3.jfif" width="250" height="250" alt="Software engineering"></img><br> 
+	<a class="narrow-link" href="https://github.com/allarassemjonathan/shakespeare">Grove City College Prospective Scheduling System (Computer Science Capstone)</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/shakespeare">Linear algebra library in C using parallel programming</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/shakespeare">API to web-scrape Wikipedia using Java</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/shakespeare">App using MySQL database for consumers to access/store/update their information</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/shakespeare">Simple website to introduce myself using simple CSS/HTML</a><br>
+    <a class="narrow-link" href="https://github.com/allarassemjonathan/shakespeare">Student scheduling app using React and SpringBoot (team project)</a><br>
+
+    <br>
+    <a href="https://github.com/allarassemjonathan/">And many more here.</a>
+    <br><br>
+    <a href="mailto:allarassemjj20@gcc.edu">Contact me :)</a>
+    <br><br><br>
+  </body>
 </html>
