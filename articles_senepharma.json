@@ -1,0 +1,718 @@
+{
+    "ALEZE OU SOUS COUSSIN NON TISSE 60''90CM": {
+        "price": "1000 FCFA",
+        "description": "Aleze Ou Sous Coussin Non Tisse 60''90Cm utilisé dans un contexte médical ou de laboratoire."
+    },
+    "ABAISSE LANGUE EN BOIS NON STERILE ADULTE B/100": {
+        "price": "1000 FCFA",
+        "description": "Abaisse Langue En Bois Non Sterile Adulte B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "ABAISSE LANGUE EN BOIS NON STERILE PEDIATRIQUE B/100": {
+        "price": "1000 FCFA",
+        "description": "Abaisse Langue En Bois Non Sterile Pediatrique B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "AIGUILLE DE COLLECTE DE SANG 21 G P/100": {
+        "price": "1000 FCFA",
+        "description": "Aiguille De Collecte De Sang 21 G P/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "AIGUILLE SPINALE 22 G": {
+        "price": "1000 FCFA",
+        "description": "Aiguille Spinale 22 G utilisé dans un contexte médical ou de laboratoire."
+    },
+    "AIGUILLE SPINALE 25 G": {
+        "price": "1000 FCFA",
+        "description": "Aiguille Spinale 25 G utilisé dans un contexte médical ou de laboratoire."
+    },
+    "AIGUILLES DENTAIRES 27 OU 30G LISTE 2": {
+        "price": "1000 FCFA",
+        "description": "Aiguilles Dentaires 27 Ou 30G Liste 2 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "ASPIRATEUR ELECTRIQUE PORTABLE": {
+        "price": "1000 FCFA",
+        "description": "Aspirateur Electrique Portable utilisé dans un contexte médical ou de laboratoire."
+    },
+    "BANDAGE DE GAZE PREDECOUPE 10CM X5M": {
+        "price": "1000 FCFA",
+        "description": "Bandage De Gaze Predecoupe 10Cm X5M utilisé dans un contexte médical ou de laboratoire."
+    },
+    "BANDAGE DE GAZE PREDECOUPE 7,5CMX4M": {
+        "price": "1000 FCFA",
+        "description": "Bandage De Gaze Predecoupe 7,5Cmx4M utilisé dans un contexte médical ou de laboratoire."
+    },
+    "BANDE DE CREPE ELASTIQUE 10X4M": {
+        "price": "1000 FCFA",
+        "description": "Bande De Crepe Elastique 10X4M utilisé dans un contexte médical ou de laboratoire."
+    },
+    "BANDE DE CREPE ELASTIQUE 15X4M": {
+        "price": "1000 FCFA",
+        "description": "Bande De Crepe Elastique 15X4M utilisé dans un contexte médical ou de laboratoire."
+    },
+    "BANDE DE CREPE ELASTIQUE 7,5X4M": {
+        "price": "1000 FCFA",
+        "description": "Bande De Crepe Elastique 7,5X4M utilisé dans un contexte médical ou de laboratoire."
+    },
+    "BASSIN DE LIT": {
+        "price": "1000 FCFA",
+        "description": "Bassin De Lit utilisé dans un contexte médical ou de laboratoire."
+    },
+    "BRACELET IDENTIFICATION MERE -BEBE": {
+        "price": "1000 FCFA",
+        "description": "Bracelet Identification Mere -Bebe utilisé dans un contexte médical ou de laboratoire."
+    },
+    "CANNE ANGLAISE": {
+        "price": "1000 FCFA",
+        "description": "Canne Anglaise utilisé dans un contexte médical ou de laboratoire."
+    },
+    "CANNE DE MARCHE EN ALUMINIUM": {
+        "price": "1000 FCFA",
+        "description": "Canne De Marche En Aluminium utilisé dans un contexte médical ou de laboratoire."
+    },
+    "CANNULE A OXYGENE DOUBLE TROUS ENF.": {
+        "price": "1000 FCFA",
+        "description": "Cannule A Oxygene Double Trous Enf. utilisé dans un contexte médical ou de laboratoire."
+    },
+    "CANNULE D'ASPIRATION YANKAUER STAND. AVEC VENTIL.": {
+        "price": "1000 FCFA",
+        "description": "Cannule D'Aspiration Yankauer Stand. Avec Ventil. utilisé dans un contexte médical ou de laboratoire."
+    },
+    "CANNULE NASALE A OXYGENE A DOUBLE TAILLE M": {
+        "price": "1000 FCFA",
+        "description": "Cannule Nasale A Oxygene A Double Taille M utilisé dans un contexte médical ou de laboratoire."
+    },
+    "CASQUETTE BOUFFANTE COULEUR BLEUE B/100": {
+        "price": "1000 FCFA",
+        "description": "Casquette Bouffante Couleur Bleue B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "CATETHER PRESERVATIF L": {
+        "price": "1000 FCFA",
+        "description": "Catether Preservatif L utilisé dans un contexte médical ou de laboratoire."
+    },
+    "CATETHER PRESERVATIF M": {
+        "price": "1000 FCFA",
+        "description": "Catether Preservatif M utilisé dans un contexte médical ou de laboratoire."
+    },
+    "CATETHER PRESERVATIF/CATETHER PENIEN OU SONDE EX S": {
+        "price": "1000 FCFA",
+        "description": "Catether Preservatif/Catether Penien Ou Sonde Ex S utilisé dans un contexte médical ou de laboratoire."
+    },
+    "CATGUT PLEIN 2/0 B/12": {
+        "price": "1000 FCFA",
+        "description": "Catgut Plein 2/0 B/12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "COMPRESSES DE GAZE STERILES 10X10 B/100": {
+        "price": "1000 FCFA",
+        "description": "Compresses De Gaze Steriles 10X10 B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "COMPRESSES DE GAZE STERILES 5X5 B/100": {
+        "price": "1000 FCFA",
+        "description": "Compresses De Gaze Steriles 5X5 B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "COMPRESSES DE GAZE STERILES 7,5X7,5 B/100": {
+        "price": "1000 FCFA",
+        "description": "Compresses De Gaze Steriles 7,5X7,5 B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "COTON BOULES MULTICOLORS/BLANC": {
+        "price": "1000 FCFA",
+        "description": "Coton Boules Multicolors/Blanc utilisé dans un contexte médical ou de laboratoire."
+    },
+    "COTON STERLE 100G ZIG ZAG": {
+        "price": "1000 FCFA",
+        "description": "Coton Sterle 100G Zig Zag utilisé dans un contexte médical ou de laboratoire."
+    },
+    "COTON STERLE 50G ZIG ZAG": {
+        "price": "1000 FCFA",
+        "description": "Coton Sterle 50G Zig Zag utilisé dans un contexte médical ou de laboratoire."
+    },
+    "COUVRE-CHAUSSURES B/100": {
+        "price": "1000 FCFA",
+        "description": "Couvre-Chaussures B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "DRAPS OU CHAMPS CHIRURGICAUX NON TISSES 100x150cm": {
+        "price": "1000 FCFA",
+        "description": "Draps Ou Champs Chirurgicaux Non Tisses 100X150Cm utilisé dans un contexte médical ou de laboratoire."
+    },
+    "EJECTEURS DE SALIVE DENTAIRES": {
+        "price": "1000 FCFA",
+        "description": "Ejecteurs De Salive Dentaires utilisé dans un contexte médical ou de laboratoire."
+    },
+    "ELECTROCARDIOGRAPHE 12 CANAUX": {
+        "price": "1000 FCFA",
+        "description": "Electrocardiographe 12 Canaux utilisé dans un contexte médical ou de laboratoire."
+    },
+    "ELECTROCARDIOGRAPHE 3 CANAUX": {
+        "price": "1000 FCFA",
+        "description": "Electrocardiographe 3 Canaux utilisé dans un contexte médical ou de laboratoire."
+    },
+    "EPICRANIENS .23-24G": {
+        "price": "1000 FCFA",
+        "description": "Epicraniens .23-24G utilisé dans un contexte médical ou de laboratoire."
+    },
+    "EXTRACTEUR STANDARD FORCEPS DE DENTS INCLUSES GDC": {
+        "price": "1000 FCFA",
+        "description": "Extracteur Standard Forceps De Dents Incluses Gdc utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FAUTEUIL ROULANT COMMODE": {
+        "price": "1000 FCFA",
+        "description": "Fauteuil Roulant Commode utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FAUTEUIL ROULANT MANUEL PLIANT": {
+        "price": "1000 FCFA",
+        "description": "Fauteuil Roulant Manuel Pliant utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FIL ACIDE POLYCOLIQUE 1 B/12": {
+        "price": "1000 FCFA",
+        "description": "Fil Acide Polycolique 1 B/12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FIL ACIDE POLYCOLIQUE 2 B/12": {
+        "price": "1000 FCFA",
+        "description": "Fil Acide Polycolique 2 B/12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FIL ACIDE POLYCOLIQUE 2/0 B/12": {
+        "price": "1000 FCFA",
+        "description": "Fil Acide Polycolique 2/0 B/12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FIL ACIDE POLYCOLIQUE 3/0 B/12": {
+        "price": "1000 FCFA",
+        "description": "Fil Acide Polycolique 3/0 B/12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FIL ACIDE POLYCOLIQUE 4/0 B/12": {
+        "price": "1000 FCFA",
+        "description": "Fil Acide Polycolique 4/0 B/12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FIL MONOFILAMENT 2/0 B/12": {
+        "price": "1000 FCFA",
+        "description": "Fil Monofilament 2/0 B/12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FIL MONOFILAMENT 3/0 B/12": {
+        "price": "1000 FCFA",
+        "description": "Fil Monofilament 3/0 B/12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FIL POLYESTER TRESSE 2/0 B/12": {
+        "price": "1000 FCFA",
+        "description": "Fil Polyester Tresse 2/0 B/12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "FIL POLYESTER TRESSE 3/0 B/12": {
+        "price": "1000 FCFA",
+        "description": "Fil Polyester Tresse 3/0 B/12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "GANTS CHIRURGICAUXEN LATEX TAILLE 7,5 B/50": {
+        "price": "1000 FCFA",
+        "description": "Gants Chirurgicauxen Latex Taille 7,5 B/50 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "GANTS CHIRURGICAUX EN LATEX TAILLE 8 B/50": {
+        "price": "1000 FCFA",
+        "description": "Gants Chirurgicaux En Latex Taille 8 B/50 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "GANTS D'EXAMEN POUDRES,M,L B/100": {
+        "price": "1000 FCFA",
+        "description": "Gants D'Examen Poudres,M,L B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "GARROT ELASTIQUE AVEC BOUCLE": {
+        "price": "1000 FCFA",
+        "description": "Garrot Elastique Avec Boucle utilisé dans un contexte médical ou de laboratoire."
+    },
+    "GARROT ELASTIQUE SANS LATEX": {
+        "price": "1000 FCFA",
+        "description": "Garrot Elastique Sans Latex utilisé dans un contexte médical ou de laboratoire."
+    },
+    "GARROT EN TUBE DE LATEX B/100": {
+        "price": "1000 FCFA",
+        "description": "Garrot En Tube De Latex B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "GEL TRANSMISSION ULTRASON BIDON 5 LITRES": {
+        "price": "1000 FCFA",
+        "description": "Gel Transmission Ultrason Bidon 5 Litres utilisé dans un contexte médical ou de laboratoire."
+    },
+    "HARICOT OU BASSIN DE REIN 150MM": {
+        "price": "1000 FCFA",
+        "description": "Haricot Ou Bassin De Rein 150Mm utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT DADMINISTRATION POUR PERFUSION JETABLE 21G": {
+        "price": "1000 FCFA",
+        "description": "Kit Dadministration Pour Perfusion Jetable 21G utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT DADMINISTRATION POUR PERFUSION JETABLE 21G EN Y": {
+        "price": "1000 FCFA",
+        "description": "Kit Dadministration Pour Perfusion Jetable 21G En Y utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT DE DRAINAGE FERME DES PLAIES CH 12 400ML": {
+        "price": "1000 FCFA",
+        "description": "Kit De Drainage Ferme Des Plaies Ch 12 400Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT DE DRAINAGE FERME DES PLAIES CH 14 400ML": {
+        "price": "1000 FCFA",
+        "description": "Kit De Drainage Ferme Des Plaies Ch 14 400Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT DE DRAINAGE FERME DES PLAIES CH 16 400ML": {
+        "price": "1000 FCFA",
+        "description": "Kit De Drainage Ferme Des Plaies Ch 16 400Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT DE DRAINAGE FERME DES PLAIES CH 18 400ML": {
+        "price": "1000 FCFA",
+        "description": "Kit De Drainage Ferme Des Plaies Ch 18 400Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT DE TRACTION CUTANE AVEC VELERO": {
+        "price": "1000 FCFA",
+        "description": "Kit De Traction Cutane Avec Velero utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT DE TRANSFUSION SANGUINE 19G": {
+        "price": "1000 FCFA",
+        "description": "Kit De Transfusion Sanguine 19G utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT OPHTALMOSCOPE A FIBRE OPTIQUE": {
+        "price": "1000 FCFA",
+        "description": "Kit Ophtalmoscope A Fibre Optique utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT OTOSCOPE A FIBRE OPTIQUE": {
+        "price": "1000 FCFA",
+        "description": "Kit Otoscope A Fibre Optique utilisé dans un contexte médical ou de laboratoire."
+    },
+    "KIT PERF.+ BURETTE 100ML FILTRE VALVE SILIC.PEDIATRIQ.": {
+        "price": "1000 FCFA",
+        "description": "Kit Perf.+ Burette 100Ml Filtre Valve Silic.Pediatriq. utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LAME CHIRURGICALE N°20": {
+        "price": "1000 FCFA",
+        "description": "Lame Chirurgicale N°20 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LAME CHIRURGICALE N°21": {
+        "price": "1000 FCFA",
+        "description": "Lame Chirurgicale N°21 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LAME CHIRURGICALE N°22": {
+        "price": "1000 FCFA",
+        "description": "Lame Chirurgicale N°22 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LAME CHIRURGICALE N°23": {
+        "price": "1000 FCFA",
+        "description": "Lame Chirurgicale N°23 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LAMES DE MICROSCOPE 25MM''75MM": {
+        "price": "1000 FCFA",
+        "description": "Lames De Microscope 25Mm''75Mm utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LAMPE LED D'EXAMEN MEDICAL": {
+        "price": "1000 FCFA",
+        "description": "Lampe Led D'Examen Medical utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LANCETTES DE SANG 28G B/100 REGULIER BLEU TYPE TORSION": {
+        "price": "1000 FCFA",
+        "description": "Lancettes De Sang 28G B/100 Regulier Bleu Type Torsion utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LANCETTES DE SANG POUR ACCUCHECK": {
+        "price": "1000 FCFA",
+        "description": "Lancettes De Sang Pour Accucheck utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LARYNGOSCOPE A F.OPT. MACINTOSH POUR 4 LAMES REUT.": {
+        "price": "1000 FCFA",
+        "description": "Laryngoscope A F.Opt. Macintosh Pour 4 Lames Reut. utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LIT D'EXAMEN 190X62X68CM": {
+        "price": "1000 FCFA",
+        "description": "Lit D'Examen 190X62X68Cm utilisé dans un contexte médical ou de laboratoire."
+    },
+    "LIT D'EXAMEN GYNECOLOGIQUE": {
+        "price": "1000 FCFA",
+        "description": "Lit D'Examen Gynecologique utilisé dans un contexte médical ou de laboratoire."
+    },
+    "MARTEAU A REFLEXES": {
+        "price": "1000 FCFA",
+        "description": "Marteau A Reflexes utilisé dans un contexte médical ou de laboratoire."
+    },
+    "MANCHE EN PLASTIQUE MARTEAU REFLEXE": {
+        "price": "1000 FCFA",
+        "description": "Manche En Plastique Marteau Reflexe utilisé dans un contexte médical ou de laboratoire."
+    },
+    "MASQUE A OXYGENE AVEC RESERVOIR TAILLE L": {
+        "price": "1000 FCFA",
+        "description": "Masque A Oxygene Avec Reservoir Taille L utilisé dans un contexte médical ou de laboratoire."
+    },
+    "MASQUE A OXYGENE AVEC RESERVOIR TAILLE M": {
+        "price": "1000 FCFA",
+        "description": "Masque A Oxygene Avec Reservoir Taille M utilisé dans un contexte médical ou de laboratoire."
+    },
+    "MASQUE A OXYGENE SIMPLE PEDIATRIQUE": {
+        "price": "1000 FCFA",
+        "description": "Masque A Oxygene Simple Pediatrique utilisé dans un contexte médical ou de laboratoire."
+    },
+    "MASQUE A OXYGENE SIMPLE ADULTE TAILLE L": {
+        "price": "1000 FCFA",
+        "description": "Masque A Oxygene Simple Adulte Taille L utilisé dans un contexte médical ou de laboratoire."
+    },
+    "MASQUE NEBULISEUR ADULTE TAILLE L": {
+        "price": "1000 FCFA",
+        "description": "Masque Nebuliseur Adulte Taille L utilisé dans un contexte médical ou de laboratoire."
+    },
+    "MASQUE NEBULISEUR ADULTE TAILLE M": {
+        "price": "1000 FCFA",
+        "description": "Masque Nebuliseur Adulte Taille M utilisé dans un contexte médical ou de laboratoire."
+    },
+    "MASQUE VISAG.A 3 PLIS AVEC ECRAN OC.BOUCLES OR.BLEU B/100": {
+        "price": "1000 FCFA",
+        "description": "Masque Visag.A 3 Plis Avec Ecran Oc.Boucles Or.Bleu B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "MATELAS MEDICAL ANTI ESCARRES": {
+        "price": "1000 FCFA",
+        "description": "Matelas Medical Anti Escarres utilisé dans un contexte médical ou de laboratoire."
+    },
+    "OXYMETRE DE POULS PORTATIF LISTE 2": {
+        "price": "1000 FCFA",
+        "description": "Oxymetre De Pouls Portatif Liste 2 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "OXYMETRE DE POULS MANUEL": {
+        "price": "1000 FCFA",
+        "description": "Oxymetre De Pouls Manuel utilisé dans un contexte médical ou de laboratoire."
+    },
+    "PESE BEBE NUMERIQUE TS 500": {
+        "price": "1000 FCFA",
+        "description": "Pese Bebe Numerique Ts 500 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "PESE PERSONNE MECANIQUE CAPACITE 150/160KG": {
+        "price": "1000 FCFA",
+        "description": "Pese Personne Mecanique Capacite 150/160Kg utilisé dans un contexte médical ou de laboratoire."
+    },
+    "PIECE DE GAZE EN ZIG ZAG 65CM X 100M": {
+        "price": "1000 FCFA",
+        "description": "Piece De Gaze En Zig Zag 65Cm X 100M utilisé dans un contexte médical ou de laboratoire."
+    },
+    "POMPE SERINGUE DOUBLE CANAL OU POMPE A PERFUSION": {
+        "price": "1000 FCFA",
+        "description": "Pompe Seringue Double Canal Ou Pompe A Perfusion utilisé dans un contexte médical ou de laboratoire."
+    },
+    "PORTE-AIGUILLE OU PINCE A AIGUILLE": {
+        "price": "1000 FCFA",
+        "description": "Porte-Aiguille Ou Pince A Aiguille utilisé dans un contexte médical ou de laboratoire."
+    },
+    "POTEAUX IV OU POTENCE": {
+        "price": "1000 FCFA",
+        "description": "Poteaux Iv Ou Potence utilisé dans un contexte médical ou de laboratoire."
+    },
+    "ROBINET D'ARRET 3 VOIES BLEU S/100 C/2000": {
+        "price": "1000 FCFA",
+        "description": "Robinet D'Arret 3 Voies Bleu S/100 C/2000 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "ROULEAU DE COTON P/500 PIECES": {
+        "price": "1000 FCFA",
+        "description": "Rouleau De Coton P/500 Pieces utilisé dans un contexte médical ou de laboratoire."
+    },
+    "ROULEAU DE GAZE ABSORBANT 90CM''90mtr 1000G": {
+        "price": "1000 FCFA",
+        "description": "Rouleau De Gaze Absorbant 90Cm''90Mtr 1000G utilisé dans un contexte médical ou de laboratoire."
+    },
+    "RUBAN ADHESIF PERFORE A L'OXYDE DE ZING 10CMX5CM": {
+        "price": "1000 FCFA",
+        "description": "Ruban Adhesif Perfore A L'Oxyde De Zing 10Cmx5Cm utilisé dans un contexte médical ou de laboratoire."
+    },
+    "RUBAN CHIRURGICAL MICROPOREUX NON TISSE": {
+        "price": "1000 FCFA",
+        "description": "Ruban Chirurgical Microporeux Non Tisse utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SAC DE DRAINAGE D'URINE AVEC SORTIE 2000 ML": {
+        "price": "1000 FCFA",
+        "description": "Sac De Drainage D'Urine Avec Sortie 2000 Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SERINGUE 60 ML EMBOUT CATETHER": {
+        "price": "1000 FCFA",
+        "description": "Seringue 60 Ml Embout Catether utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SERINGUE U. UNIQUE AIG.LUER LOCK 10ML B/100": {
+        "price": "1000 FCFA",
+        "description": "Seringue U. Unique Aig.Luer Lock 10Ml B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SERINGUE U. UNIQUE AIG.LUER LOCK 3ML B/100": {
+        "price": "1000 FCFA",
+        "description": "Seringue U. Unique Aig.Luer Lock 3Ml B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SERINGUE U. UNIQUE AIG.LUER LOCK 5ML B/100": {
+        "price": "1000 FCFA",
+        "description": "Seringue U. Unique Aig.Luer Lock 5Ml B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE ENDOTRACHEALE AVEC BRASSARD CH 6,5": {
+        "price": "1000 FCFA",
+        "description": "Sonde Endotracheale Avec Brassard Ch 6,5 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'ALIMENTATION CH 10": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Alimentation Ch 10 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'ALIMENTATION CH 12": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Alimentation Ch 12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'ALIMENTATION CH 14": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Alimentation Ch 14 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'ALIMENTATION CH 16": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Alimentation Ch 16 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'ALIMENTATION CH 18": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Alimentation Ch 18 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'ALIMENTATION CH 4": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Alimentation Ch 4 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'ALIMENTATION CH 5": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Alimentation Ch 5 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'ALIMENTATION CH 6": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Alimentation Ch 6 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'ALIMENTATION CH 8": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Alimentation Ch 8 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'INTUBATION AVEC BRASSARD CH 6": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Intubation Avec Brassard Ch 6 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'INTUBATION AVEC BRASSARD CH 2,5": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Intubation Avec Brassard Ch 2,5 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'INTUBATION AVEC BRASSARD CH 3": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Intubation Avec Brassard Ch 3 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'INTUBATION AVEC BRASSARD CH 3,5": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Intubation Avec Brassard Ch 3,5 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'INTUBATION AVEC BRASSARD CH 4": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Intubation Avec Brassard Ch 4 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'INTUBATION AVEC BRASSARD CH 4,5": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Intubation Avec Brassard Ch 4,5 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'INTUBATION AVEC BRASSARD CH 5": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Intubation Avec Brassard Ch 5 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'INTUBATION AVEC BRASSARD CH 5,5": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Intubation Avec Brassard Ch 5,5 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'INTUBATION AVEC BRASSARD CH 7": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Intubation Avec Brassard Ch 7 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE D'INTUBATION AVEC BRASSARD CH 7,5": {
+        "price": "1000 FCFA",
+        "description": "Sonde D'Intubation Avec Brassard Ch 7,5 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE FOLEY EN LATEX 2 VOIES 12 FR P/10": {
+        "price": "1000 FCFA",
+        "description": "Sonde Foley En Latex 2 Voies 12 Fr P/10 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE FOLEY EN LATEX 2 VOIES 14 FR P/10": {
+        "price": "1000 FCFA",
+        "description": "Sonde Foley En Latex 2 Voies 14 Fr P/10 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE FOLEY EN LATEX 2 VOIES 16 FR P/10": {
+        "price": "1000 FCFA",
+        "description": "Sonde Foley En Latex 2 Voies 16 Fr P/10 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE FOLEY EN LATEX 2 VOIES 18 FR P/10": {
+        "price": "1000 FCFA",
+        "description": "Sonde Foley En Latex 2 Voies 18 Fr P/10 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE FOLEY EN LATEX 2 VOIES CH 10 P/10": {
+        "price": "1000 FCFA",
+        "description": "Sonde Foley En Latex 2 Voies Ch 10 P/10 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE FOLEY EN LATEX 2 VOIES CH 8 P/10": {
+        "price": "1000 FCFA",
+        "description": "Sonde Foley En Latex 2 Voies Ch 8 P/10 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE STOMACALE CH 10": {
+        "price": "1000 FCFA",
+        "description": "Sonde Stomacale Ch 10 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE STOMACALE CH 12": {
+        "price": "1000 FCFA",
+        "description": "Sonde Stomacale Ch 12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE STOMACALE CH 14": {
+        "price": "1000 FCFA",
+        "description": "Sonde Stomacale Ch 14 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE STOMACALE CH 16": {
+        "price": "1000 FCFA",
+        "description": "Sonde Stomacale Ch 16 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE STOMACALE CH 18": {
+        "price": "1000 FCFA",
+        "description": "Sonde Stomacale Ch 18 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE STOMACALE CH 6": {
+        "price": "1000 FCFA",
+        "description": "Sonde Stomacale Ch 6 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDE STOMACALE CH 8": {
+        "price": "1000 FCFA",
+        "description": "Sonde Stomacale Ch 8 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDES D'ASPIRATION CH 6": {
+        "price": "1000 FCFA",
+        "description": "Sondes D'Aspiration Ch 6 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDES D'ASPIRATION CH 8": {
+        "price": "1000 FCFA",
+        "description": "Sondes D'Aspiration Ch 8 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDES D'ASPIRATION CH 10": {
+        "price": "1000 FCFA",
+        "description": "Sondes D'Aspiration Ch 10 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDES D'ASPIRATION CH 12": {
+        "price": "1000 FCFA",
+        "description": "Sondes D'Aspiration Ch 12 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDES D'ASPIRATION CH 14": {
+        "price": "1000 FCFA",
+        "description": "Sondes D'Aspiration Ch 14 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDES D'ASPIRATION CH 16": {
+        "price": "1000 FCFA",
+        "description": "Sondes D'Aspiration Ch 16 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SONDESD'ASPIRATION CH 18": {
+        "price": "1000 FCFA",
+        "description": "Sondesd'Aspiration Ch 18 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SPHYGMOMANOMETRE A MERCURE TYPE BUREAU": {
+        "price": "1000 FCFA",
+        "description": "Sphygmomanometre A Mercure Type Bureau utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SPHYGMOMANOMETRE NUMERIQUE TYPE BUREAU": {
+        "price": "1000 FCFA",
+        "description": "Sphygmomanometre Numerique Type Bureau utilisé dans un contexte médical ou de laboratoire."
+    },
+    "STERILISATEUR 24 LITRES": {
+        "price": "1000 FCFA",
+        "description": "Sterilisateur 24 Litres utilisé dans un contexte médical ou de laboratoire."
+    },
+    "STHETOSCOPES AD. SIMPLE ALU.": {
+        "price": "1000 FCFA",
+        "description": "Sthetoscopes Ad. Simple Alu. utilisé dans un contexte médical ou de laboratoire."
+    },
+    "TABLE DE CHEVET BLEU": {
+        "price": "1000 FCFA",
+        "description": "Table De Chevet Bleu utilisé dans un contexte médical ou de laboratoire."
+    },
+    "TABLE DE CHEVET ROSE": {
+        "price": "1000 FCFA",
+        "description": "Table De Chevet Rose utilisé dans un contexte médical ou de laboratoire."
+    },
+    "TENSIOMETRE ELECTRONIQUE": {
+        "price": "1000 FCFA",
+        "description": "Tensiometre Electronique utilisé dans un contexte médical ou de laboratoire."
+    },
+    "THERMOMETRE CLINIQUE EN VERRE AISSELLE/BUCCAL": {
+        "price": "1000 FCFA",
+        "description": "Thermometre Clinique En Verre Aisselle/Buccal utilisé dans un contexte médical ou de laboratoire."
+    },
+    "THERMOMETRE DIGITAL 3 CHIFFRES": {
+        "price": "1000 FCFA",
+        "description": "Thermometre Digital 3 Chiffres utilisé dans un contexte médical ou de laboratoire."
+    },
+    "THERMOMETRE MEDICAL A MERCURE": {
+        "price": "1000 FCFA",
+        "description": "Thermometre Medical A Mercure utilisé dans un contexte médical ou de laboratoire."
+    },
+    "TUBE D'EXTENSION 100CM S/25 C/900": {
+        "price": "1000 FCFA",
+        "description": "Tube D'Extension 100Cm S/25 C/900 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "TUBE D'EXTENSION 150CM S/25 C/700": {
+        "price": "1000 FCFA",
+        "description": "Tube D'Extension 150Cm S/25 C/700 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "VESSIE A GLACE": {
+        "price": "1000 FCFA",
+        "description": "Vessie A Glace utilisé dans un contexte médical ou de laboratoire."
+    },
+    "BOITE DE PETRI STERILE 120x120 MM B/12 CARTON/60": {
+        "price": "1000 FCFA",
+        "description": "Boite De Petri Sterile 120X120 Mm B/12 Carton/60 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "BOITE DE PETRI STERILE 55 MM B/36 CARTON 63": {
+        "price": "1000 FCFA",
+        "description": "Boite De Petri Sterile 55 Mm B/36 Carton 63 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "BOITE DE PETRI STERILE 90 MM B/20 CARTON/25": {
+        "price": "1000 FCFA",
+        "description": "Boite De Petri Sterile 90 Mm B/20 Carton/25 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "EMBOUT DE PIPETTE GILSON 200UL GRAD.JAUNE": {
+        "price": "1000 FCFA",
+        "description": "Embout De Pipette Gilson 200Ul Grad.Jaune utilisé dans un contexte médical ou de laboratoire."
+    },
+    "EMBOUT DE PIPETTE GILSON/QINGYUN 10000UL BLEU B/500": {
+        "price": "1000 FCFA",
+        "description": "Embout De Pipette Gilson/Qingyun 10000Ul Bleu B/500 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "PISSETTE 300ML": {
+        "price": "1000 FCFA",
+        "description": "Pissette 300Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "PISSETTE 500ML": {
+        "price": "1000 FCFA",
+        "description": "Pissette 500Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "RECIPENT D'URINE 120ML": {
+        "price": "1000 FCFA",
+        "description": "Recipent D'Urine 120Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "RECIPENT D'URINE 30ML": {
+        "price": "1000 FCFA",
+        "description": "Recipent D'Urine 30Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "RECIPENT D'URINE 40ML": {
+        "price": "1000 FCFA",
+        "description": "Recipent D'Urine 40Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "RECIPIENT A SELLES 30ML": {
+        "price": "1000 FCFA",
+        "description": "Recipient A Selles 30Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "RECIPIENT A SELLES 40ML": {
+        "price": "1000 FCFA",
+        "description": "Recipient A Selles 40Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "RECIPIENT URINE 50ML": {
+        "price": "1000 FCFA",
+        "description": "Recipient Urine 50Ml utilisé dans un contexte médical ou de laboratoire."
+    },
+    "SPECULUM MEDIUM A USAGE UNIQUE": {
+        "price": "1000 FCFA",
+        "description": "Speculum Medium A Usage Unique utilisé dans un contexte médical ou de laboratoire."
+    },
+    "TIGE STERILE + APPLIC EN BOIS POUR FEMME 13X150MM B/100": {
+        "price": "1000 FCFA",
+        "description": "Tige Sterile + Applic En Bois Pour Femme 13X150Mm B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "TUBE A HEMOLYSE PS 13X76MM B/100": {
+        "price": "1000 FCFA",
+        "description": "Tube A Hemolyse Ps 13X76Mm B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "TUBE EDTA K3 13X75MM B/100": {
+        "price": "1000 FCFA",
+        "description": "Tube Edta K3 13X75Mm B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "TUBE RED HEAD CLOT ACTIVATOR 13X75 B/100": {
+        "price": "1000 FCFA",
+        "description": "Tube Red Head Clot Activator 13X75 B/100 utilisé dans un contexte médical ou de laboratoire."
+    },
+    "TUBE SODIUM FLUORIDE +EDTA K2 13X75 B/100": {
+        "price": "1000 FCFA",
+        "description": "Tube Sodium Fluoride +Edta K2 13X75 B/100 utilisé dans un contexte médical ou de laboratoire."
+    }
+}
